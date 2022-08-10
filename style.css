@@ -18,7 +18,7 @@ h3{
     font-size: 25px;
     color: rgb(67, 7, 107);
 }
-p{
+.para{
     border: 2px dotted;
     padding: 10px;
 }
@@ -46,4 +46,15 @@ p{
     font-size: 25px;
     padding: 10px;
     border-radius: 15px;
+}
+.more{
+    margin-top: 70px;
+}
+.shadow{
+    padding: 15px;
+    border-left:;
+    box-shadow: 10px 10px 40px gray;
+}
+footer{
+    text-align: center;
 }
